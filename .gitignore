@@ -1,0 +1,12 @@
+# Environment variables (содержит GITHUB_TOKEN — не коммитить)
+.env
+# Виртуальное окружение
+venv/
+.venv/
+# Python кэш
+__pycache__/
+*.py[cod]
+$py.cache/
+# OS
+.DS_Store
+Thumbs.db
