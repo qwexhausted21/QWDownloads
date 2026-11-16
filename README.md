@@ -16,13 +16,17 @@ Desktop-инструмент для менеджмента папки загру
 
 ## 🛠 Стек технологий
 
-Python, PyQT
+- Python
+- PyQT
+- FastAPI
+- PyWebView
+- HTML
 
 ## 📦 Установка
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/USERNAME/QWDownloads.git
+git clone https://github.com/qwexhausted21/QWDownloads.git
 cd QWDownloads
 
 # Создайте виртуальное окружение
@@ -53,6 +57,3 @@ Pull request'ы приветствуются! Перед большими изм
 ## 📄 Лицензия
 
 Этот проект распространяется под лицензией MIT.
-
----
-*README сгенерирован автоматически с помощью PortfolioForge*
